@@ -12,5 +12,6 @@ int main()
     {
         cout << *p++ << endl;
     }
+    cout << "printed array";
     return 0;
 }
